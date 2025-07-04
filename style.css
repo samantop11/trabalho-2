@@ -1,9 +1,40 @@
 body{
     font-family:arial, sans-serif ;
     margin:0;
-    background-color:#fffaf0;
-    color:#333;
+    background-color:#807768;
+    color:#000000;
 }
-header {
-
+.botao{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #70695c;
+    color: #000000;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    padding-top:px;
+    background-color: #5c564b;
+}
+img{
+    background-color:#5c564b;
+    padding-top:0%;
+}
+.logo{
+    background-color: #5c564b;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 25px;
+    box-shadow: 0 2p 5px rebeccapurple;
+}
+.logo .logo{
+    height: 110px;
+    width:auto
+}
+.logo h1{
+    height: 36px;
+    font-size: 36px;
+    color: #000;
+    margin:0;
 }
