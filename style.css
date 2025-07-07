@@ -38,3 +38,13 @@ img{
     color: #000;
     margin:0;
 }
+::placeholder{
+    background-color: #47423a;
+    color: rgb(140, 137, 137);
+    
+}
+
+
+.cont{
+    border: #8f846e;
+}
